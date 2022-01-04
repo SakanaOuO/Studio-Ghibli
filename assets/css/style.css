@@ -569,10 +569,11 @@ section {
 # Services
 --------------------------------------------------------------*/
 .services .icon-box {
+  height: 240px;
   width: 416px;
   text-align: center;
   border: 1px solid #ebebeb;
-  padding: 50px 130px;
+  padding: -3px 130px;
   transition: all ease-in-out 0.3s;
   background: #fff;
 }
