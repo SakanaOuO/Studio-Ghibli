@@ -836,6 +836,7 @@ section {
   color: #ffc451;
   float: left;
 }
+
 .counts .content .count-box span {
   font-size: 36px;
   line-height: 30px;
@@ -864,7 +865,7 @@ section {
   color: #626262;
 }
 .counts .image {
-  background: url("../img/counts-img.jpg") center center no-repeat;
+  background: url("../img/6.png") center center no-repeat;
   background-size: cover;
   min-height: 400px;
 }
@@ -887,7 +888,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background: url("../img/testimonials-bg.jpg") no-repeat;
+  background: url("../img/5.jpg") no-repeat;
   background-position: center center;
   background-size: cover;
   position: relative;
