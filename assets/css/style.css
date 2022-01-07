@@ -19,7 +19,7 @@ a {
 }
 
 a:hover {
-  color: #84fff9;
+  color: #94eaff;
   text-decoration: none;
 }
 
@@ -776,10 +776,10 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #ffc451;
+  border: 1px solid #58dafa;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #ffc451;
+  background-color: #51ebff;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
